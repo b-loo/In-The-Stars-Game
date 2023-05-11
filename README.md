@@ -1,4 +1,5 @@
-Hope you enjoyed this game we made in Unity!
+Hope you enjoy this game we made in Unity!
+
 Contributors/Collaborators: @zgoldberg22, @PCahill44, @jan116.
 Thank you @lemfn64 for guidance
 
