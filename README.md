@@ -1,62 +1,26 @@
-# Unity Project Setup (PLEASE READ)
+Hope you enjoyed this game we made in Unity!
+Contributors/Collaborators: @zgoldberg22, @PCahill44, @jan116.
+Thank you @lemfn64 for guidance
 
-Before you clone the team repo, follow these instructions:
+In The Stars:
 
-1. Install GitHub Desktop, which also installs Git LFS: https://desktop.github.com (if you are using git via command line, install Git LFS: https://git-lfs.com)
-2. Submit your GitHub username in the Canvas assignment that is titled “Provide your GitHub account Name”
-3. You will receive an email with permission to access your team’s GitHub repo website
-4. (for GitHub Desktop) Goto the repo website, click the green Code button, and select “Open with GitHub Desktop” and clone the template project to your local machine
-(for git command line) Go to GitHub account settings and authorize your SSH key for CWRU SSO URL (https://docs.github.com/en/enterprise-cloud@latest/authentication/authenticating-with-saml-single-sign-on/authorizing-an-ssh-key-for-use-with-saml-single-sign-on) and then clone the final project template
+In this cozy and relaxing point-and-click game, you play as a retired professor who returns to his old classroom. You'll discover hints to help draw new constellations in your journal as you explore the room. With soothing music and a warm, inviting atmosphere, this game is the perfect way to unwind and explore the beauty of the night sky. Progress by filling up your journal with constellations, and gaze at your constellations once your notebook is complete.
 
-## 5. Modify your GLOBAL .gitconfig
-Not everyone on your team may have the same path to UnityYAMLMerge (i.e. different operating systems or install locations). Because of this, we suggest you modify your local config to define the "unityyamlmerge" merge tool that this repository points to. To do this:
+---------------------------------------------------------------------------------------------------
 
-1. Reveal hidden files on your operating system
-Windows 10: Open the File Explorer application and select View > Options > Change folder and search options and then select the View tab and, in Advanced settings, select Show hidden files, folders, and drives and OK
+Instructions: 
 
-Windows 11: Open the File Explorer application and select View > Show > Hidden Items
+-Walk around the scene with arrow keys or "WASD"
 
-MacOS: Click on Finder and press the keyboard combination Shift + Cmd + . (period key)
+-Discover hints to help with your drawing by clicking on the objects in the scene
 
-2. Find and open your local config file inside of the hidden git folder `.git\config`:
-3. Identify your version of unity (e.g. `2021.3.0f1`). This will replace the word `VERSION` in the paths commented below depending on your OS
-4. Add the following text to the bottom of the file, subbing in the unitymergetool path:
-```bash
-[mergetool "unityyamlmerge"]
-    trustExitCode = false
-    #Replace <path to UnityYAMLMerge> in the next line with the following default locations (may be different depending on your Unity installation location)
-    # Installs using the Unity Hub (Default):
-    # Win: C:\\Program Files\\Unity\\Hub\\Editor\\VERSION\\Editor\\Data\\Tools\\UnityYAMLMerge.exe
-    # MacOS: /Applications/Unity/Hub/Editor/VERSION/Unity.app/Contents/Tools/UnityYAMLMerge
-    # Linux: /home/USERNAME/Unity/Hub/Editor/VERSION/Editor/Data/Tools/UnityYAMLMerge
-    cmd = '<path to UnityYAMLMerge>' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
-```
+- Click on the Notebook icon in the top left corner to open your journal
 
-## 6. Add pre-commit and post-merge scripts
-Download the scripts from the link below and paste them into the hidden folder `<your_repo>/.git/hooks/`
-- Pre-commit: https://github.com/NYUGameCenter/Unity-Git-Config/blob/master/pre-commit
-- Post-commit: https://github.com/NYUGameCenter/Unity-Git-Config/blob/master/post-merge
+-You can draw on the right side, and once complete click on the check mark to check if your drawing is correct
 
-## 7. Open the Project in Unity
-This project was created using `2021.3.0f1`. When you open this project in Unity, Unity may say that it needs to upgrade the project. Given this is a bare-bones project, this is a safe action and you may allow Unity to continue. Overall, your entire team should be using the **same version of Unity**.
+- You can clear your drawings with the X button if you made a mistake
 
-## 8. Starting creating your new project and commit/push changes to the team remote repo
+Note: Unfortunately, pressing escape to quit to menu does not work in our WebGL Build. Please instead refresh the page to restart at the main menu at anytime (Progress not saved) Apologies for the inconvenience!
 
-## Adding version control to an existing Unity Project
-1. Paste your project files into this repository on your local machine. 
-2. Open the project on the target unity version, so all the files are modified as necessary. 
-3. If you had unity collab or plastic, disable it now.
-4. Save your project and close unity.
-5. delete left over files from plastic or collab like x.meta.private or y.meta.private.meta (some files may be hidden so enable see hidden files)
-6. Commit and push.
-7. If you are having issues with .meta files check and modify your gitignore or make sure there are no empty folders. 
-
-<<<<<<< HEAD
-
-
-Who playin outside tomorroe
-
-I'm playin outside tomorroe
-=======
-I am adding and changing 
->>>>>>> 91b33b192526dcc2eb5cd20bb3ed834aa3bad515
+While most art assets and animations we're done in house, here are all the resources that helped us! We thank them graciously! 
+https://docs.google.com/document/d/1glgDMj1Jnu0mZFy6T49hVTAeMXXnuOIU6Z-kZJ7BjqI/edit?usp=sharing
