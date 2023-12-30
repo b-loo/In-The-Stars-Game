@@ -26,6 +26,8 @@ Note: Unfortunately, pressing escape to quit to menu does not work in our WebGL 
 While most art assets and animations were done in house, here are all the resources that helped us! We thank them graciously! 
 https://docs.google.com/document/d/1glgDMj1Jnu0mZFy6T49hVTAeMXXnuOIU6Z-kZJ7BjqI/edit?usp=sharing
 
+---------------------------------------------------------------------------------------------------
+
 Screenshots:
 
 
