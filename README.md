@@ -1,3 +1,4 @@
+![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/fafb94e5-673b-4020-8778-d38404ff4156)
 Hope you enjoy this game we made in Unity!
 
 Contributors/Collaborators: @zgoldberg22, @PCahill44, @jan116.
@@ -36,6 +37,5 @@ Screenshots:
 ![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/01ddc64f-ede9-4fba-9d9e-8344f41347e6)
 ![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/773482ec-bf01-4e58-9568-dc1a19611f39)
 ![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/45facf4b-ed65-45af-ae9b-e889e848eced)
-![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/fafb94e5-673b-4020-8778-d38404ff4156)
 
 
