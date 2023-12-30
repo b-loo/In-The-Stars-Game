@@ -25,3 +25,13 @@ Note: Unfortunately, pressing escape to quit to menu does not work in our WebGL 
 
 While most art assets and animations were done in house, here are all the resources that helped us! We thank them graciously! 
 https://docs.google.com/document/d/1glgDMj1Jnu0mZFy6T49hVTAeMXXnuOIU6Z-kZJ7BjqI/edit?usp=sharing
+
+Screenshots:
+![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/75a5985e-20cc-458b-856c-fb6213a094af)
+![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/2711054d-8ec4-4d1c-94b4-1fbd9660e8d0)
+![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/01ddc64f-ede9-4fba-9d9e-8344f41347e6)
+![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/773482ec-bf01-4e58-9568-dc1a19611f39)
+![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/45facf4b-ed65-45af-ae9b-e889e848eced)
+![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/fafb94e5-673b-4020-8778-d38404ff4156)
+
+
