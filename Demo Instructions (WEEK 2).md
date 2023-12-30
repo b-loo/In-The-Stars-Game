@@ -1,6 +1,6 @@
-# "In The Stars" Stage 2 Demo Instructions
+# "In The Stars" Stage 2 Demo Instructions (2nd Week Deliverable)
 
-For the stage 2 demo game, we have made a demo of our mechanic of drawing in the player's notebook. The player will only draw on the right page of the notebook.
+For the stage 2 concept demo, we showcase of our mechanic of drawing in the player's notebook. The player will only draw on the right page of the notebook.
 
 Using the mouse, the player should click and drag on the canvas to create a bright blue line. Our demo only recognizes a basic trangle so far, so we could test our mechanic. In this demo, the goal is to draw a basic right triangle described in the directions below. 
 
