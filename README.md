@@ -11,13 +11,13 @@ In this cozy and relaxing point-and-click game, you play as a retired professor 
 
 Instructions: 
 
--Walk around the scene with arrow keys or "WASD"
+- Walk around the scene with arrow keys or "WASD"
 
--Discover hints to help with your drawing by clicking on the objects in the scene
+- Discover hints to help with your drawing by clicking on the objects in the scene
 
 - Click on the Notebook icon in the top left corner to open your journal
 
--You can draw on the right side, and once complete click on the check mark to check if your drawing is correct
+- You can draw on the right side, and once complete click on the check mark to check if your drawing is correct
 
 - You can clear your drawings with the X button if you made a mistake
 
@@ -27,6 +27,8 @@ While most art assets and animations were done in house, here are all the resour
 https://docs.google.com/document/d/1glgDMj1Jnu0mZFy6T49hVTAeMXXnuOIU6Z-kZJ7BjqI/edit?usp=sharing
 
 Screenshots:
+
+
 ![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/75a5985e-20cc-458b-856c-fb6213a094af)
 ![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/2711054d-8ec4-4d1c-94b4-1fbd9660e8d0)
 ![image](https://github.com/b-loo/In-The-Stars-Game/assets/115095351/01ddc64f-ede9-4fba-9d9e-8344f41347e6)
